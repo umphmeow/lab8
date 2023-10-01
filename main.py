@@ -111,7 +111,5 @@ class BookRecommendationGUI:
     def run(self):
         self.window.mainloop()
 
-
-# Usage example:
 gui = BookRecommendationGUI()
 gui.run()
